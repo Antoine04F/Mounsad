@@ -19,20 +19,27 @@ Scientifique de formation, passionnée par la résolution de problèmes, j’ai 
 <hr/>
 
 ### &nbsp; 🖥️ Main tech knowledge
-&nbsp;&nbsp;&nbsp;☑  FrontEnd - React.js, React-Native, Vue.js, AngularJS, NextJS, NuxtJs, etc<br>
-&nbsp;&nbsp;&nbsp;☑  BackEnd - Django, ASP.NET MVC(Core), Node, Express, Laravel, RoR, Spring, etc<br>
-&nbsp;&nbsp;&nbsp;☑  AWS, Docker, Kubernetes, Firebase<br>
-&nbsp;&nbsp;&nbsp;☑  BlockChain - Web3, Dapp, NFT Marketplace<br>
-&nbsp;&nbsp;&nbsp;☑  Ethereum, Solidity, Smart Contract, Solana, Anchor<br><br>
-  
+<table>
+<td>
+  <ul>
+    <li><b>Languages</b>: Python, SQL, DAX</li>
+    <li><b>Framework</b>: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scipy</li>
+    <li><b>Database</b>: MySQL</li>
+    <li><b>Tools</b>: Excel, Power BI, Tableau, Powerpoint</li>
+    <li><b>Others</b>: Git, Jupyter Notebooks, Visual Studio Code, KNIME</li>
+  </ul>
+</td>
+</table>
 <table>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
-  </tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"" width="50"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"" width="50"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"" width="50"></td>
+ </tr>
 </table>
+  
+
+                      
 
 <br>
 <hr/>
